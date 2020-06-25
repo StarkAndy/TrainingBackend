@@ -11,4 +11,6 @@ npm init .
 #nodemon to run and refresh your code
 V-1.18.5
 
+#yargs library 
+12.0.2
 
