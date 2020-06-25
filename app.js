@@ -8,4 +8,6 @@ const getNotes=require('./note.js');
 console.log(getNotes());
 
 //using chalk library;
-console.log(chalk.blue('Blue'));
+console.log(chalk.yellow('Blue'));
+
+console.log(process.argv[2]);
